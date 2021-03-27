@@ -3,7 +3,8 @@ MISARA is an open-source Matlab Interface for the Seismo-acoustic ARary Analysis
 
 # Requirements
 MISARA can be run on any operation system with Matlab from Release 2018b.
-#Documentation
+
+# Documentation
 For more details, you can consult the manual of MISARA (see the folder "./MISARA-1.0/Doc").
 
 # Citation 

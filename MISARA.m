@@ -9,7 +9,7 @@
 %   If you use MISARA or any function(s) of it, you need to acknowledge 
 %   MISARA by citing the following DOI:
 %
-%   https://doi.org/10.5281/zenodo.4642016
+%   https://doi.org/10.5281/zenodo.4642026
 %  
 % 
 % 2) LICENSE:
